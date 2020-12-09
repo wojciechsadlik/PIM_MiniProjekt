@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a87e0b59-8c19-46c1-b75a-2769257e2057" name="Default Changelist" comment="" />
+    <list default="true" id="a87e0b59-8c19-46c1-b75a-2769257e2057" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Canvas_Kotlin/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/canvas_flutter/lib/main.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1lHe1oZURSfu83sEvBDujoT5qAO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,10 +76,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="459" y="394" width="1200" height="798" key="AVDManager/0.0.2560.1400@0.0.2560.1400" timestamp="1607258769278" />
-    <state x="845" y="656" key="FileChooserDialogImpl" timestamp="1607264921166">
+    <state x="845" y="656" key="FileChooserDialogImpl" timestamp="1607495570197">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="845" y="656" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1607264921166" />
+    <state x="845" y="656" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1607495570197" />
     <state width="987" height="397" key="GridCell.Tab.0.bottom" timestamp="1607282588382">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -86,10 +96,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="987" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607282588382" />
-    <state x="623" y="309" key="SettingsEditor" timestamp="1607258973014">
+    <state x="623" y="309" key="SettingsEditor" timestamp="1607495575085">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="623" y="309" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607258973014" />
+    <state x="623" y="309" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607495575085" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1607259175343">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
