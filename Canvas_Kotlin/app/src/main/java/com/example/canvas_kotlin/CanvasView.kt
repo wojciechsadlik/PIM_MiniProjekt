@@ -52,8 +52,8 @@ class CanvasView: View {
         if (this::bitmap.isInitialized) {
             bitmap.recycle();
         }
-        else
-            bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888);
+
+        bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888);
 
         canvas = Canvas(bitmap);
 

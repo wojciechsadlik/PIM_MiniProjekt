@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87e0b59-8c19-46c1-b75a-2769257e2057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Canvas_Kotlin/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/canvas_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/canvas_flutter/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Canvas_Kotlin/app/src/main/java/com/example/canvas_kotlin/CanvasView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Canvas_Kotlin/app/src/main/java/com/example/canvas_kotlin/CanvasView.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

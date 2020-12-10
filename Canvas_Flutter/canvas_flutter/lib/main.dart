@@ -69,7 +69,7 @@ class MyHomePage extends StatelessWidget {
                 hoverColor: Colors.transparent,
                 splashColor: Colors.transparent,
                 customBorder: CircleBorder(),
-                child: Container(
+                child: Padding(
                   padding: EdgeInsets.all(12.0),
                   child: Text('CLEAR',
                     style: TextStyle(
